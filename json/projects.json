@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "name": "Four Part Portrait",
+            "description": "A four part portrait with Taylor Swift Lyric",
+            "link": "../imgs/4partportrait.png"
+        },
+        {
+            "name": "Line Drawing of Achilles",
+            "description": "A line drawing of my dog Achilles.",
+            "link": "../imgs/achillesdrawing.png"
+        },
+        {
+            "name": "Line Drawing of a Fox",
+            "description": "A line drawing of a fox.",
+            "link": "../imgs/foxdrawing.png"
+        },
+        {
+            "name": "Line Drawing of a Wolf",
+            "description": "A line drawing of a wolf.",
+            "link": "../imgs/wolfdrawing.png"
+        },
+        {
+            "name": "Line Drawing of a husky",
+            "description": "A line drawing of a husky.",
+            "link": "../imgs/huskydrawing.png"
+        },
+        {
+            "name": "Dia De Los Muertos Parrot",
+            "description": "A Dia De Los Muertos Parrot done using shapes in Adobe Illustrator.",
+            "link": "../imgs/ParrotofShapes.png"
+        }
+    ]
+}

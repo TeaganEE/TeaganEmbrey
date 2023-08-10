@@ -5,3 +5,8 @@ main {
 a:link, a:visited {
     color: #beb5ea !important;
 }
+
+body {
+    background: linear-gradient(to bottom right, #c77b5e 30%, #eebbaa 65%, #c77b5e) !important;
+    background-attachment: fixed !important;
+}
